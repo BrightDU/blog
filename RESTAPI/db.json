@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learning About The Web",
+      "author": "John Doe",
+      "post":"The web is an interconnection of Computers to share and exchange resources.",
+      "image":"images/internet.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Networking the Web",
+      "author": "James Hin",
+      "post":"Networking is a way in which the Computers talk to each other. The 5 layer model is a commonly used model to explain the Networking Architecture.",
+      "image":"images/networking.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cloud Computing",
+      "author": "John I.",
+      "post":"Cloud computing is a collection of various computing resources, that is made avaliable to every users at different ends.",
+      "image":"images/cloud.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "first comment",
+      "postId": 1,
+      "start":10,
+      "end":10
+    },
+    {
+      "id": 2,
+      "body": "second comment",
+      "postId": 2,
+      "start":20,
+      "end":20
+    },
+    {
+      "id": 3,
+      "body": "third comment",
+      "postId": 3,
+      "start":30,
+      "end":30
+    },
+    {
+      "id": 4,
+      "body": "fourth comment",
+      "postId": 4,
+      "start":40,
+      "end":40
+    },
+    {
+      "id": 5,
+      "body": "fifth comment",
+      "postId": 5,
+      "start":50,
+      "end":50
+    }
+  ],
+  "archives": [
+    {
+      "id":1,
+      "postId":5,
+      "title": "the road ahead",
+      "author":"Bill Gates",
+      "date": "01-01-2000"
+    },
+    {
+      "id":2,
+      "postId":6,
+      "title": "Think Big",
+      "author":"ben carson",
+      "date": "02-02-2001"
+    },
+    {
+      "id":3,
+      "postId":7,
+      "title": "anonymous title",
+      "author":"anonymous author",
+      "date": "08-08-2019"
+    },
+    {
+      "id":4,
+      "postId":8,
+      "title": "Focus on the Solution",
+      "author":"Donald Trump",
+      "date": "03-03-2018"
+    },
+    {
+      "id":5,
+      "postId":9,
+      "title": "do it like kids",
+      "author":"Yusuf Leinge",
+      "date": "10-10-2019"
+    }
+  ]
+}
